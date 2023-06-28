@@ -38,7 +38,7 @@ function App() {
       <Nav className="me-auto">
 
       <Nav.Link><Link to="/">Home</Link></Nav.Link>
-      <Nav.Link><Link to="/detail">Detail</Link></Nav.Link>
+      <Nav.Link><Link to="/detail/0">Detail</Link></Nav.Link>
       <Nav.Link><Link to="/cart">Cart</Link></Nav.Link>
      
       </Nav>
